@@ -1,24 +1,70 @@
 # 🎮 Eric Moura
 
-**`Game Engineer`**
+**`Desenvolvedor Back-end`**
 
-Desenvolvedor especializado em C++ com foco em jogos e sistemas de alta performance. Desenvolvi a **Ni Engine**, uma engine in-house construida com SFML e OpenGL, com arquitetura baseada em componentes e foco em código limpo e manutenibilidade. Ela já foi usada para a criação de um jogo completo. Quais as motivações para a criação de uma engine proprietária? no meu caso, esse processo está me ajudando a entender as diversas camadas que formam um jogo. 
-
-<p>
-  <a><img src="https://custom-icon-badges.demolab.com/badge/itch.io-orange?style=for-the-badge&logo=person-add&logoColor=white" /></a>
-  <img src="https://custom-icon-badges.demolab.com/badge/-ericmoura511@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
-</p>
-
-Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfólio profissional</a> 
+Desenvolvedor back-end formado em Análise e Desenvolvimento de Sistemas (FATEC), com experiência em APIs REST, containerização com Docker e serviços cloud na AWS. Tenho foco em código limpo, performance e boas práticas de arquitetura.
 
 <p>
-  <a href="https://github.com/ericericmoura/ni-engine"><img src="https://custom-icon-badges.demolab.com/badge/Ni Engine-blue.svg?logo=repo" /></a>
-  <a href="https://github.com/ericericmoura/easy-game"><img src="https://custom-icon-badges.demolab.com/badge/Último Projeto-purple.svg?logo=controller" /></a>
+  <a href="mailto:eric.moura.dev@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-eric.moura.dev@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eric-moura-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
+
+### 🧰 Stack principal
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#
+
+### 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td align="center" width="400">
+      <strong><a href="https://github.com/ericericmoura/blogging-app">Blogging App</a></strong>
+      <br/>
+      <sub>API REST · Node.js/TypeScript · Docker · AWS s3</sub>
+      <br/><br/>
+      Um aplicativo de blog que utiliza arquivos Markdown (armazenados no s3 da amazon AWS) como forma de armazenamento de posts, isso permite formatação estilo markdown para cada usuário. O aplicativo também conta com autenticação oAuth com a google e baseada em cookies, utilizando hashing de senha, confirmação de e-mail e mecanismos de recuperação de conta
+    </td>
+  </tr>
+</table>
+
+#
+
+<details>
+<summary><h3>🎮 Fora do trabalho: desenvolvimento de jogos</h3></summary>
+
+**`Desenvolvedor de jogos`**
+
+<br/>
+
+Levo como hobby a programação de baixo nível através do desenvolvimento de jogos e sistemas de alta performance em C++. No momento, meu projeto mais complexo é um jogo de damas que utiliza bitboards e pré-geração de movimentos, a lógica do jogo é escrita em C++ puro e a interface gráfica é feita utilizando SFML.
+
+<p>
+  <a href="https://github.com/ericericmoura/checkers"><img src="https://custom-icon-badges.demolab.com/badge/C++ Checkers-purple.svg?logo=controller" /></a>
+  <a href="https://github.com/ericericmoura/easy-game"><img src="https://custom-icon-badges.demolab.com/badge/Easy Game-purple.svg?logo=controller" /></a>
+</p>
+
+Minha primeira linguagem de programação foi C++, desenvolvendo sistemas embarcados com arduino. Realizei diversos projetos como:
+- Um carrinho de controle remoto com modo de desvio de obstáculo utilizando um sensor ultrassonico
+- Uso de multiplos sensores: de fumaça, movimento, de calor, umidade, umidade do solo, etc.
+- Mão robótica com diversos servo motores para as articulações
+
 ### 🧰 Linguagens e ferramentas
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 
 #
 
@@ -42,23 +88,12 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
 
 #
 
-
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"></img>
-
-<details>
-  <summary><h3>📖 Minha jornada na programação</h3></summary>
-  Sempre me interessei por tecnologia, principalmente robótica, devido a influência de filmes e jogos. Meu primeiro contato real com a programação foi no Tinkercad, que permitia a criação de protótipos de arduino e eletrônica. Foi através do Arduino que tive meu primeiro contato com C++. Os projetos eram simples na época, mas ainda muito emocionantes. Depois que comprei meu primeiro arduino segui fazendo diversos projetos, e realizando melhorias em projetos existentes. Meu maior e mais marcante projeto com o Arduino foi um carrinho de controle remoto com bluetooth, que também tinha um modo de desvio de obstaculo automático, usando um sensor ultrassonico. Depois de alguns anos trabalhando com Arduino, resolvi tentar algo novo, baixei o GameMaker (na época se chamava GameMaker Studio 2) e tentei criar um jogo. Era um jogo top-down estilo bullet hell, o jogo ficou legal, mas não segui em frente com o projeto. Depois fui passando de engine em engine, experimentando várias opções: unity, godot, unreal. No fim, acabei me apegando bastante ao Godot, e passei um bom tempo estudando e aprendendo a usar essa engine. Também desenvolvi alguns jogos nela. Hoje, tenho foco em estudar desenvolvimento de jogos usando ferramentas de baixo nível. Quero entender tudo o que diz respeito ao desenvolvimento de um jogo, pois sei que isso vai me ajudar a crescer como profissional. Futuramente também desejo me especializar em Unreal.
 </details>
-
-#
 
 ### 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=ericericmoura&theme=dark&hide_border=false)<br/>
 
 <img src="https://raw.githubusercontent.com/ericericmoura/ericericmoura/output/snake.svg" alt="Snake animation" />
-
-[![Eric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ericericmoura&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
-
 
 ![](https://github-profile-trophy.vercel.app/?username=ericericmoura&theme=dark&no-frame=true&no-bg=false&margin-w=4)
