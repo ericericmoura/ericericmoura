@@ -30,11 +30,20 @@ Desenvolvedor back-end formado em Análise e Desenvolvimento de Sistemas (FATEC)
 <table>
   <tr>
     <td align="center" width="400">
+      <strong><a href="https://github.com/ericericmoura/ecommerce-api">E-commerce API</a></strong>
+      <br/>
+      <sub>API REST · Node.js · TypeScript · PostgreSQL · Prisma · Jest · Docker</sub>
+      <br/><br/>
+      API de e-commerce com cadastro e autenticação de usuários, gerenciamento de produtos e carrinho de compras, com opção de pagamento.
+      </br></br>O ambiente de desenvolvimento roda em Docker Compose (PostgreSQL, Adminer e Node.js) e utiliza HTTPS com certificado                autoassinado.
+      </br></br>O projeto segue uma abordagem orientada a testes, com testes unitários e de integração em cada funcionalidade.
+    </td>
+    <td align="center" width="400">
       <strong><a href="https://github.com/ericericmoura/blogging-app">Blogging App</a></strong>
       <br/>
       <sub>API REST · Node.js/TypeScript · Docker · AWS s3</sub>
       <br/><br/>
-      Um aplicativo de blog que utiliza arquivos Markdown (armazenados no s3 da amazon AWS) como forma de armazenamento de posts, isso permite formatação estilo markdown para cada usuário. O aplicativo também conta com autenticação oAuth com a google e baseada em cookies, utilizando hashing de senha, confirmação de e-mail e mecanismos de recuperação de conta
+      Um aplicativo de blog que utiliza arquivos Markdown (armazenados no s3 da amazon AWS) como forma de armazenamento de posts, isso permite formatação estilo markdown para cada usuário. </br></br>O aplicativo também conta com autenticação oAuth com a google e baseada em cookies, utilizando hashing de senha, confirmação de e-mail e mecanismos de recuperação de conta
     </td>
   </tr>
 </table>
@@ -72,6 +81,12 @@ Minha primeira linguagem de programação foi C++, desenvolvendo sistemas embarc
 
 <table>
   <tr>
+    <td align="center" style="padding: 12px;">
+      <strong><a href="https://github.com/ericericmoura/checkers">C++ Checkers</a></strong>      
+      <br/>
+      <sub>2D · Board Game</sub>
+      <br/>
+    </td>
     <td align="center" style="padding: 12px;">
       <strong><a href="https://github.com/ericericmoura/easy-game">Easy Game</a></strong>      
       <br/>
